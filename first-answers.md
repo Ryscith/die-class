@@ -15,3 +15,7 @@ fatal: Exiting because of an unresolved conflict.
 
 # Answer 3:
 * master
+
+# Answer 4:
+* header
+  master
