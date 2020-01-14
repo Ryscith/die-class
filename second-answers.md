@@ -3,5 +3,4 @@ error: failed to push some refs to 'https://github.com/Ryscith/die-class.git' hi
 
 Answer 2:
 error: Pulling is not possible because you have unmerged files. hint: Fix them up in the work tree, and then use 'git add/rm ' hint: as appropriate to mark resolution and make a commit. fatal: Exiting because of an unresolved conflict.
-Answer 3:
-master
+
