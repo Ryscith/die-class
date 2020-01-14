@@ -1,2 +1,4 @@
-# The second Git Lab
-## Second team member: <Ryan Kilkenney>
+# The second git lab
+## First team member: Reilly Schultz
+## Second team member: Ryan Kilkenney
+This repository is an example of a C++ project
