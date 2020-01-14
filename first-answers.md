@@ -22,3 +22,9 @@ fatal: Exiting because of an unresolved conflict.
 
 # Answer 5:
 die.h  first-answers.md  README.md  second-answers.md
+
+# Answer 6:
+first-answers.md  README.md  second-answers.md
+
+# Answer 7:
+No
