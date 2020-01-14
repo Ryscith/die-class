@@ -19,3 +19,6 @@ fatal: Exiting because of an unresolved conflict.
 # Answer 4:
 * header
   master
+
+# Answer 5:
+die.h  first-answers.md  README.md  second-answers.md
